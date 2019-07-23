@@ -1,0 +1,65 @@
+Version 1.7.0 changelog :
+The game is now completely deterministic.
+    This means scenes can be reproduced.
+Everything is now based around frames. Timers, animations, inputs, etc.
+Added a replay system. You may now watch the replay of the last boss fight.
+Reworked the quest : Save The Village.
+    Name : Repel the invaders.
+    Description : The village is under attack ! Take your party and drive them away.
+    Win condition : You must kill at least 3 enemy camps.
+    Reward : Simple Shield.
+    Requirements : None.
+Added a new Quest :
+    Name : Collect herbs.
+    Description : Many of the villagers have gotten injured during the attack. They need to be treated before it is too late. Help the villagers gather herbs for the treatment.
+    Win condition : You must collect all 11 herbs. Herbs are scattered throughout the first stage of the dungeon.
+    Reward : ***.
+    Requirements : None.
+Added a new Quest :
+    Name : Defeat the Giant Troll.
+    Description : The village is now secured. It is too early for a celebration though. Go out there and take on the leader of the invaders to establish victory.
+    Win condition : You must kill the Giant Troll at least one time.
+    Reward : ***.
+    Requirements : You must complete these quests first.
+        Repel the invaders.
+        Collect herbs.
+Added a new Quest :
+    Name : Find the chief.
+    Description : You have managed to successfully repel the attackers. However you were too late to prevent them from taking the chief away. Go find him and bring him You have managed to successfully repel the attackers. However you were too late to prevent them from taking the chief away. Go find him and bring him back.
+    Win condition : You must find the chief. Duh !
+    Reward ***.
+    Requirements : You must complete the quest below.
+        Defeat the Giant Troll.
+Added a respawn system in the dungeon state.
+The slow motion no longer skips frames. It now slows down the entire world instead.
+    This results in a far smoother slow motion effect.
+Tweaked the tile rendering system in the dungeon state.
+    The tiles have no gaps in between anymore.
+Repositioned the level 5 unlock path to a new area.
+    You now have access to the Giant Troll before beating level 5.
+Rescaled the collision box of the quest npc to be the same as its image.
+Added a loading screen for when you are exiting the dungeon.
+    Nvm removed most loading screens because they were shit.
+Added a confirmation step when the player is about to leave the dungeon.
+Added a confirmation step when the player wants to challenge a boss.
+The quest progress panel is no longer shown when showing the list of all active quests.
+The quest progress panel is not shown if there isn't a progress info.
+Improved the fps drops. They're still there but we're (:D) slowly working on it.
+Slightly improved the inputs when commanding units.
+Slightly changed the AI of guarding enemies.
+Atlas textures where added to training states.
+    This literally does nothing.
+Improved the method the game realizes a camp is dead.
+Fixed some text bugs with quests.
+Fixed quest being counted as done as soon as conditions were made and not after revisiting the npc.
+Fixed a bug where completing quests wouldn't reposition the remaining quests in the quest panel.
+Fixed a bug where completing a quest wouldn't remove the quest from the quest panel.
+Fixed characters sometimes moving towards the center of the battlefield in the arena.
+    This time it's super legit. Like literally removed the code to get it fixed.
+Fixed Mummy Archers sometimes ignoring their guard point.
+Fixed views not being destroyed at the end of a state.
+Fixed texts being drawn over the quest panel in the dungeon. This legit took a whole freaking day.
+Fixed a bug with quest's name not being removed after completing a quest.
+Fixed visual effects being rendered over UI elements in the training stages.
+Fixed dragging visual effect being rendered over entities.
+Fixed a bug with the command option slider in the settings.

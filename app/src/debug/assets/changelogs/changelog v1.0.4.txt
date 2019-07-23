@@ -1,0 +1,8 @@
+Added a Reset Progress button.
+Removed the movement restriction from the playable characters.
+Characters that die in the fight will no longer earn a share of the exp from that battle.
+Removed the two rotating rectangles from the main menu.
+Fixed a bug were you weren't able to launch the game normally after closing it using the Exit button.
+Fixed spells not being removed after the caster dies.
+Fixed the Archer's model being huge which was causing a few problems.
+Fixed the problem with characters sharing the same stats when they are changed.

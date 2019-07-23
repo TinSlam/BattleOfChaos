@@ -1,0 +1,13 @@
+Version 1.4.2 changelog :
+Non selected characters will now follow the selected one in the dungeon.
+Changed the file reading method.
+    This improves the loading time by a tiny bit.
+Improved the clearance distribution of the fucking pathfinding map.
+    This results in a way shorter loading time.
+Improved the pathfinding to fucking give up when it gets stuck in its ass crack.
+Fixed a rare fucking bug where pathfinding could crash the game.
+Fixed a rare issue with the goddamn retarded pathfinding where you could sometimes get stuck.
+Fucking hell friends. I don't even know how to describe this one. Fixed yet another pathfinding bug.
+Fixed Armor training state sometimes crashing when you would die.
+Fixed not being able to move in the Arena and the Training stages.
+Fixed the Unequip button having the text "Equip" in the Armory.

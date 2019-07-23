@@ -1,0 +1,20 @@
+Version 1.2.0 changelog :
+Added a new level select system. It's all pretty now.
+You can now play a level if you've beaten all last levels. #StrongFormOfThePrincipleOfMathematicalInduction
+The game may have a story behind it now. Idk...
+Resetting progress will reset the following :
+    -Gold.
+    -Level Progress.
+    -Items bought.
+    -Characters' levels.
+Added a confirmation dialog box to prevent accidental merchandise/reset.
+You may now only carry one item of each type on each character. With the exception of 2 of the Amulet type.
+    The types are :
+        Head, Weapon, Armor, Boots and Amulet.
+Movement speed now has a minimum of 0.5f.
+Increased the text size of the item stats in the Armory.
+Fixed a bug with buttons immediately performing their action once any motion event is registered.
+Fixed a bug that was caused by fixing the above bug.
+Fixed multiple bugs regarding the equip/unequip buttons when the inventory is/gets empty.
+Fixed a bug with healing visual effect that would cause a game crash.
+Fixed a bug where in the Armory the selected item image would be initially missing.

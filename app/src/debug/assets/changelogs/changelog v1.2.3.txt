@@ -1,0 +1,11 @@
+Version 1.2.3 changelog :
+Added a new npc : The Mummy Archer.
+Added two new levels. Green Village 7 and Green Village 8.
+Added armor training.
+    You may now permanently boost a character's armor based on how much distance you travel and how long you last.
+Spells are now unlocked once you reach level 5 on a character.
+Fixed maximum movement speed being exceeded when movement speed buffs are applied.
+Fixed movement glitch on high movement speed.
+Changed values on movement animations to have them more accurate to the movement speed.
+Che gohi khordam with movement speed...
+Resized the playable characters' models to make the controls smoother.

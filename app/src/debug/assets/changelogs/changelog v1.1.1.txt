@@ -1,0 +1,11 @@
+Version 1.1.1 changelog :
+Added a new building : The Armory.
+You can now equip your items on your characters to boost their stats.
+Added images to all items.
+Fixed Npcs dropping bounties when player quits a battle.
+Arrows now start at the correct angle instead of an initial 0 degrees.
+Fixed a bug were waves would still spawn when you'd change levels.
+Slow motion will now stop when you finish a level.
+Made the bounty visual effect a little larger.
+Fixed heal amount not being shown properly when boosted by items.
+Fixed a bug with attack speed not functioning properly.

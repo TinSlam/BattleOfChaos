@@ -1,0 +1,13 @@
+Added a new building : The Shop.
+Implemented Gold, an in-game currency.
+Implemented Items that boost characters' stats each in different ways.(?)
+    (?) : Each item can be carried only by certain characters specified in the Shop.
+Equipments are available to be bought from the newly added market using Gold.
+Added a visual effect that shows the bounty you earned from killing a unit.
+Added a new UI element in the battlefield to track how much gold you've earned so far.
+Moved the spell caster portrait to the top of the screen instead of the middle.
+Added a new item : Sultan's dagger.
+    "Once belonged to the ruler of the eastern desserts. It is more of an ornament than a weapon."
+    Damage : +3.
+    Attack speed : +3%.
+    Item cost : 30.

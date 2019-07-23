@@ -1,0 +1,128 @@
+<object id="11" name="Ally_spawn_point" type="ally_spawn_point" x="80" y="776">
+<point/>
+</object>
+<object id="12" name="Ally_spawn_point" type="ally_spawn_point" x="200" y="776">
+<point/>
+</object>
+<object id="13" name="Ally_spawn_point" type="ally_spawn_point" x="80" y="876">
+<point/>
+</object>
+<object id="14" name="Ally_spawn_point" type="ally_spawn_point" x="200" y="876">
+<point/>
+</object>
+<object id="26" name="Path_unlocked_at_15" type="replace/tile_layer1/76/tileset1/15/walkable" x="1072.25" y="719.5">
+<point/>
+</object>
+<object id="28" name="Path_unlocked_at_15" type="replace/tile_layer1/76/tileset1/15/walkable" x="1103" y="720.25">
+<point/>
+</object>
+<object id="29" name="Path_unlocked_at_15" type="replace/tile_layer1/76/tileset1/15/walkable" x="1135.75" y="718.75">
+<point/>
+</object>
+<object id="30" name="Path_unlocked_at_15" type="replace/tile_layer1/76/tileset1/15/walkable" x="1168.75" y="716.5">
+<point/>
+</object>
+<object id="31" name="Sign_unlock_path_at_lvl_15" type="sign/new_path/15" x="1009.5" y="719.75">
+<point/>
+</object>
+<object id="35" name="Path_unlocked_at_10" type="remove/tile_layer1/10/walkable" x="756.5" y="2485">
+<point/>
+</object>
+<object id="36" name="Path_unlocked_at_10" type="remove/tile_layer1/10/walkable" x="654.25" y="2484.25">
+<point/>
+</object>
+<object id="37" name="Sign_unlock_path_at_lvl_10" type="sign/new_path/10" x="817" y="2483">
+<point/>
+</object>
+<object id="38" name="Path_unlocked_at_10" type="remove/tile_layer1/10/walkable" x="690" y="2486.5">
+<point/>
+</object>
+<object id="39" name="Path_unlocked_at_10" type="remove/tile_layer1/10/walkable" x="721" y="2486.5">
+<point/>
+</object>
+<object id="40" name="Sign_unlock_path_at_lvl_5" type="sign/new_path/5" x="3154.5" y="1806.5">
+<point/>
+</object>
+<object id="41" name="Path_unlocked_at_5" type="remove/tile_layer1/5/walkable" x="3187.5" y="1845">
+<point/>
+</object>
+<object id="42" name="Path_unlocked_at_5" type="remove/tile_layer1/5/walkable" x="3187" y="1878">
+<point/>
+</object>
+<object id="43" name="Path_unlocked_at_5" type="remove/tile_layer1/5/walkable" x="3189" y="1906">
+<point/>
+</object>
+<object id="44" name="Path_unlocked_at_5" type="remove/tile_layer1/5/walkable" x="3186.5" y="1940">
+<point/>
+</object>
+<object id="47" name="Spawn_camp" type="spawn_camp/Troll_GreenGoblin/4/4/8" x="720" y="1196">
+<point/>
+</object>
+<object id="48" name="Spawn_camp" type="spawn_camp/GreenGoblin/4/4/8" x="282.667" y="1975.33">
+<point/>
+</object>
+<object id="49" name="Spawn_camp" type="spawn_camp/Troll_GreenGoblin/6/4/8" x="920.667" y="1933.33">
+<point/>
+</object>
+<object id="50" name="Spawn_camp" type="spawn_camp/Troll_GreenGoblin/2/4/8" x="1487.33" y="1202">
+<point/>
+</object>
+<object id="51" name="Spawn_camp" type="spawn_camp/Troll_GreenGoblin/3/4/8" x="2099.33" y="1294.67">
+<point/>
+</object>
+<object id="52" name="Spawn_camp" type="spawn_camp/Troll/5/4/8" x="2097.33" y="1968.67">
+<point/>
+</object>
+<object id="53" name="Spawn_camp" type="spawn_camp/Troll_GreenGoblin/4/4/8" x="2806" y="1492.67">
+<point/>
+</object>
+<object id="57" name="Spawn_camp" type="spawn_camp/MummyArcher/5/4/8" x="519.333" y="2995.33">
+<point/>
+</object>
+<object id="58" name="Quest_RepelTheInvaders" type="quest/RepelTheInvaders/1/0" x="1327.33" y="846">
+<point/>
+</object>
+<object id="62" x="1296.5" y="2547.5" width="799" height="440"/>
+<object id="63" name="Boss_GiantTroll" type="boss/GiantTroll/40-79-65-93" x="1681.5" y="2805">
+<point/>
+</object>
+<object id="65" name="Quest_CollectHerbs" type="quest/CollectHerbs/2/0" x="176" y="1264.5">
+<point/>
+</object>
+<object id="66" name="Quest_DefeatTheGiantTroll" type="quest/DefeatTheGiantTroll/3/1,2" x="2579" y="2159.5">
+<point/>
+</object>
+<object id="67" name="Quest_FindTheChief" type="quest/FindTheChief/4/3" x="2984.5" y="1233">
+<point/>
+</object>
+<object id="68" name="Collectable_Herb" type="collectable/Herb" x="366.5" y="1360.5">
+<point/>
+</object>
+<object id="69" name="Collectable_Herb" type="collectable/Herb" x="525" y="2439">
+<point/>
+</object>
+<object id="70" name="Collectable_Herb" type="collectable/Herb" x="1739" y="1837.5">
+<point/>
+</object>
+<object id="71" name="Collectable_Herb" type="collectable/Herb" x="2317.5" y="1068">
+<point/>
+</object>
+<object id="72" name="Collectable_Herb" type="collectable/Herb" x="1265.5" y="1328.5">
+<point/>
+</object>
+<object id="73" name="Collectable_Herb" type="collectable/Herb" x="945.5" y="1744">
+<point/>
+</object>
+<object id="74" name="Collectable_Herb" type="collectable/Herb" x="2558" y="1190">
+<point/>
+</object>
+<object id="75" name="Collectable_Herb" type="collectable/Herb" x="2960" y="2358">
+<point/>
+</object>
+<object id="76" name="Collectable_Herb" type="collectable/Herb" x="2454" y="2712">
+<point/>
+</object>
+<object id="77" name="Collectable_Herb" type="collectable/Herb" x="2684" y="3066">
+<point/>
+</object>
+<object id="78" name="Collectable_Herb" type="collectable/Herb" x="1360" y="3090">

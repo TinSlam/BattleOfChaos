@@ -1,0 +1,23 @@
+Version 1.6 changelog :
+Completely redid the graphics. Everything is now in OpenGL ES.
+Implemented static backgrounds using texture atlases.
+    This improves the GPU performance by a fuck ton.
+Implemented a new boss fighting mechanic in the Dungeon.
+Implemented a new boss : The Giant Troll.
+    You need to have the lvl 5 path unlocked to access it.
+Increased the FPS limit to 45.
+Fixed Masoud \(^.^)/
+    I would like to thank all my players for their patience and Vegh for his house.
+Added a weather element to the dungeon.
+    Rain and night time is temporarily activated in the dungeon.
+Added a quest progress panel to see how much progress you've made.
+Added better visuals for not having any quests.
+Added text justification for devices with android 8 (Oreo) or higher.
+Changed the selected character visual a bit to have it compatible with OpenGL.
+Fixed being able to open multiple game states at once.
+Fixed mummy archers standing idle in a special case instead of attacking.
+Fixed a bug where Taunting would result in a lower movement speed if you were already at maximum speed before the taunt.
+Fixed quest not being removed from the quests list when finished.
+Fixed a bug with spell buttons not positioning properly when a character dies.
+Fixed everything.
+Everything needs fixing.

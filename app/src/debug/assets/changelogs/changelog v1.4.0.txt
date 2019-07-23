@@ -1,0 +1,14 @@
+Version 1.4.0 changelog :
+Finally fixed the textures on the 3d models \(^.^)/
+Added some new textures because I can :D
+Moved the light lower to exhibit the magnificence of my 3d world.
+Completed stage 1 of the Arena : The Green Village.
+Spells can now be carried into the dungeon.
+Added an error tracing system. The game now needs permission to write to sdcard.
+    You can find the crash log in the directory sdcard/TinSlam/. Man needs log.
+Powershot damage reduced from 70 to 30.
+Healing value from the Heal spell reduced from 40 to 20.
+Fixed move animations resetting with each move command.
+Fixed a bug with the camera in the dungeon.
+Fixed selected character's visual effect being drawn over the character in training stages.
+Fixed the characters flickering in the training states that was caused by the most recent patch.

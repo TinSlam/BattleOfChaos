@@ -1,0 +1,12 @@
+Version 1.3.3 changelog :
+You may now properly take your party to the dungeon.
+Implemented loading screen.
+Added a new character selecting method in the dungeon, the mighty dungeon.
+    You can now click on a character's portrait to select it.
+Improved the algorithm to return an alternative path when no path is found to the target point, SIGNIFICANTLY.
+Melee units no longer have an attack range.
+    Their attack range is shown as "Melee" in the castle. This visual change requires a progress reset to work.
+Fixed the bug where on high movement speeds melee combat was finicky at times.
+Fixed a bug where opened paths wouldn't change the clearance value of the corresponding nodes.
+    This could result in units not being able to walk past those points.
+Fixed a bug where units weren't drawn in the correct order due to a fuck up in a recent patch.

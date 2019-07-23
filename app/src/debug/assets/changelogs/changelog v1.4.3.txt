@@ -1,0 +1,13 @@
+Version 1.4.3 changelog :
+Changed the game name to "Little battle of chaos".
+Added multiple enemy spawn camps in the dungeon.
+Improved the fps when pathfinding fails to find a path.
+Improved pathfinding when the player gives multiple inputs in a short time.
+Mummy archers now need to completely be on screen to be able to attack in the Arena.
+Improved the fps drop from having too many units in the game.
+Added a range limit for Taunt.
+Reduced the urge to bash my head against the wall due to all the bugs and fps drops.
+Fixed random freaking health bars appearing all over the place for literally no goddamn reason.
+Fixed a bug where units could get stuck in melee range without attacking.
+Fixed a bug with the "follow" movement in the dungeon state.
+Fixed so much shit you won't even understand.

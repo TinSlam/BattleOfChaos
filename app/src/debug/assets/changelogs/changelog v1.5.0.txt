@@ -1,0 +1,25 @@
+Version 1.5.0 changelog :
+Added a Quest mechanic. You may now have up to 4 active quests simultaneously.
+    To complete a quest you need to move up to the npc and accept the quest.
+    After completing the requirements you need to go back to the npc and complete the quest to earn rewards.
+Added a new quest : Save the village !
+    Name : Save the village !
+    Description : Defend the village from the raging Trolls. You must kill at least 3 Trolls to complete this quest.
+    Rewards : 15 experience, 10 gold, Simple Shield. *Gold and experience are currently not active in the dungeon.*
+Added an npc below the lvl 15 path to get the Quest from.
+Added a new model for the Knight.
+Added an Idle animation. As of now only the Knight has this animation.
+Added a visual position indicator for allied units that are not in the view.
+Added visual effects for damage/heal values when applied.
+Camera repositioning in the dungeon is no longer instant.
+    This makes switching characters smoother.
+Increased how far allied units can be from the selected character when engaged in a fight without disengaging to follow the selected character.
+Non selected units in the dungeon no longer need to be in aggro range to react to an ally being attacked.
+    This means they will react accordingly as long as they are not occupied doing a task.
+The character is now automatically selected at the beginning of training stages.
+Melee units will no longer target an enemy if there isn't enough space to fight.
+Fixed NPCs spawning in non walkable terrain. They now properly look for a free space to occupy.
+Fixed not being able to cancel the Powershot when clicking on the spell button again.
+Fixed a bug where the game would get stuck when a character being followed by other characters dies.
+Fixed a few problems with the movement and attack system.
+Fixed collision boxes being one frame behind.

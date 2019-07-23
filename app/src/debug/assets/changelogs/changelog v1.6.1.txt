@@ -1,0 +1,26 @@
+Version 1.6.1 changelog :
+Added a follow button in the dungeon which lets you toggle between other characters following the selected one or not.
+    Is automatically disabled in boss fights.
+Changed the bounty visual effect text color from yellow to black.
+Disabled the command option in settings. It's still there but doesn't do anything.
+Reworked the controls.
+    Double tapping a unit no longer selects it.
+    You can select a character only by clicking on its portrait.
+    Giving commands is done through dragging. You can also give a command to the selected character by tapping on the screen.
+Added character portrait buttons in the Arena.
+Added a teleport visual effect.
+Melee enemies now change target if they can't reach their current one.
+    If no available target is found they will return to their guard point.
+Made some changes to the Giant Troll.
+Fixed being able to taunt bosses without triggering them.
+Fixed slow motion not wearing off when the Archer dies while aiming the powershot.
+Fixed the Giant Troll sometimes moving while casting.
+Fixed health bars disappearing a frame later than they should.
+Fixed the Giant Troll's stomp hit box.
+Fixed outside screen visual indicator not disappearing after a unit dies.
+Fixed confirmation panel having behind texts drawn over it.
+Fixed quest effects not being destroyed when you leave the dungeon.
+Fixed the victory text not appearing in the Arena. This shit is getting annoying.
+Fixed units sometimes moving towards the center of the Arena right at the beginning.
+Fixed teleportation sometimes not working.
+Fixed the interaction with targeting spells being casted in slow motion.

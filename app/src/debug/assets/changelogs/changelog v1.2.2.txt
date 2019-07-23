@@ -1,0 +1,6 @@
+Version 1.2.2 changelog :
+Added a rewarding system for speed training.
+    You now gain permanent bonus movement speed based on how long you lasted and how much distance you traveled.
+Adjusted the y position of drawn text to have them be exactly on the center.
+Added a maximum movement speed value of 12f.
+Added a temporary FPS counter at the bottom left of the screen.

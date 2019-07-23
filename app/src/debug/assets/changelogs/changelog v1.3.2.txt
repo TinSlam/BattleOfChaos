@@ -1,0 +1,9 @@
+Version 1.3.2 changelog :
+Added the absolute single best pathfinding algorithm in the whole universe.
+Linked the Arena with the Dungeon. You can now unlock new paths in the dungeon by beating some specific levels in the Arena.
+Added several signs in the dungeon to provide some information to the player.
+Units now need to properly be in front of each other to be considered in melee range.
+    This causes some odd behaviours with high movement speeds. Will fix later...
+Fixed hp bars not being in sync with the camera.
+Fixed selected character's visual effect not being visible to the naked nipple in the training stages.
+Fixed numerous rendering frame misses to make the game smoother. This will take a few more patches to be fixed completely.

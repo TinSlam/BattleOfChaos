@@ -1,0 +1,11 @@
+Version 1.2.1 changelog :
+Added a camera element to the game to enable a bigger world.
+Added a new building : The Training Yard.
+Added a new Spell : The Sun Strike, which is used in the Training Yard.
+Added a movement speed training mini game. As of this patch is does nothing.
+Added a new building : The Dungeon. Will be implemented later.
+Added colored circles to show whether an item has been equipped or not.
+Fixed a bug were buying multiple instances of the same item would cause duplication problems.
+Made the game compatible with multiple languages which will be added later.
+Fully updated the javadoc of the game.
+Lots of other clean ups.

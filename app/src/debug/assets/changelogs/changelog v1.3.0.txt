@@ -1,0 +1,8 @@
+Version 1.3.0 changelog :
+Added The Dungeon \(^.^)/
+Added a Settings state.
+Added an alternative way to input commands.
+    You may alter between the current two modes in the Settings. Your option will be saved.
+Targeting spells like Powershot can now only be canceled by clicking on the same or another spell button.
+    This fixed not being able to cancel spells in the training stages.
+Literally fixed every single Null Exception error that had the slightest odds of happening.

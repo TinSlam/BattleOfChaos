@@ -1,0 +1,11 @@
+Version 1.4.1 changelog :
+Improved path finding SIGNIFICANTLY, AGAIN...
+Dungeon map is expanded to a 100*100 map.
+Repositioned the lvl 5 locked path in the dungeon.
+Added the lvl 10 locked path in the dungeon.
+Added a new 3d model for the Dungeon because I can.
+All inputs are now disabled when the game is loading.
+Fixed shields not appearing in the shield category in the shop.
+Renamed Shield category to Armor in the shop.
+Added Helmet and Amulet to the shop categories.
+Removed the Buy more coins button from the shop.

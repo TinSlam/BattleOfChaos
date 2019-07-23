@@ -1,0 +1,26 @@
+state 0
+spawn_unit PCs.Knight knight0 4000 3800 33/100
+spawn_spells 1 Taunt spell0 knight0
+spawn_boss GiantTroll troll0 4800 3800 2000/2000 3500-3500-5000-5000 223142
+transition 30
+over
+
+state 1
+command knight0 attack troll0
+transition 28
+over
+
+state 2
+command setSelectedPc knight0
+call_method troll0 damage 60 knight0
+transition 4
+over
+
+state 3
+command knight0 move 4800 3800
+transition 30
+over
+
+state 4
+click_button spell0
+over

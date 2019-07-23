@@ -1,0 +1,26 @@
+ImmerseMode added :D
+
+Quest text should be vertically centered. Like the quest buttons.
+
+Equip items in the middle of dungeon.
+Potions.
+
+Knight gets stuck everywhere.
+Fonts on lower resolutions.
+
+Adapt to fps :
+    Movement.
+    Training spawns.
+
+  Screen off doesn't pause the game.
+New enemy Healer.
+Add The Ninja.
+3d models are being parsed every time activity is resumed.
+
+Tutorial Dungeon.
+Images that are not needed should not be a variable in Image class.
+Add training yard.
+    Hp.
+    AttackSpeed.
+    Damage.
+    AttackRange.
